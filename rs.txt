@@ -1,1 +1,6 @@
+
 updated rs.txt Oct 24
+merging with stashed changs
+Hello this is my file created into a forked project from github.
+Updating again on 10242024. will have to stage and stash this file.
+
