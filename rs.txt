@@ -1,1 +1,1 @@
-Hello this is my file created into a forked project from github
+updated rs.txt Oct 24
